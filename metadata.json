@@ -1,5 +1,5 @@
 {
-  "name": "Remix Virtual Biosensor Lab",
+  "name": "Virtual Biosensor Lab",
   "description": "Interactive educational simulation of an enzymatic glucose biosensor for Biology for Engineers.",
   "requestFramePermissions": [],
   "majorCapabilities": [
